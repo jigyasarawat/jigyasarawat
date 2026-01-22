@@ -1,8 +1,10 @@
-**Hi This is Jigyasa Rawat**👋
+# Jigyasa Rawat 👋
 
-🎓 MCA Student  
-💻 Software Development Intern  
+🎓 **MCA Student**  
+💻 **Software Development Intern**  
 📍 Uttarakhand, India  
+
+I’m currently pursuing my MCA and working as a software development intern, where I get hands-on experience with real-world features and production-level code.
 
 ### 🔧 Technical Skills
 - Java, SQL
