@@ -1,16 +1,28 @@
-## Hi there 👋
+**Hi This is Jigyasa Rawat**👋
 
-<!--
-**jigyasarawat/jigyasarawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Software Development Intern  
+📍 Uttarakhand, India  
 
-Here are some ideas to get you started:
+### 🔧 Technical Skills
+- Java, SQL
+- React, JavaScript
+- Supabase, PostgreSQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Experience
+**Software Development Intern – IPRPtrade**
+- Worked on admin-level controls and feature restrictions
+- Implemented user registration and job creation control logic
+- Worked with Supabase, SQL migrations, and frontend integration
+- Collaborated using Git branches and pull requests
+
+### 📌 Featured Projects
+- 🔹 **IPRPtrade Platform** (Private Repository – Company Project)
+- 🔹 OS Portfolio
+- 🔹 Social Network Graph Analysis
+
+### 🌱 Currently Learning
+- Full stack webdevelopment
+
+📫 Reach me at: jigyasarawat38509@gmail.com
